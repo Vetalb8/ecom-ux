@@ -1,0 +1,19 @@
+# Extracted source text — never published. Derived rules only.
+research/raw/
+research/images/
+
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+out/
+
+# Local review artifacts are per-target, not canon
+ux-review.json
+.hallmark/
+.scratch/
+
+# Editor and OS
+.DS_Store
+.idea/
+.vscode/
